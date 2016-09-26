@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PointOfInterests</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_map">Open in Google Map</string>
+    <string name="label">Label</string>
+    <string name="description">Description</string>
+    <string name="current_position">Current Position</string>
+    <string name="action_validate">Done</string>
+    <string name="gps_disabled">GPS is disabled</string>
+    <string name="empty_label">Please enter a label</string>
+    <string name="update_location">Update location</string>
+    <string name="empty_point_of_interest">No point of Interest</string>
+    <string name="edit_poi">Edit Point of Interest</string>
+    <string name="new_poi">New Point of Interest</string>
+    <string name="share_sms">Share via SMS</string>
+    <string name="location_not_ready">Location is not ready</string>
+</resources>

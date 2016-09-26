@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PointOfInterests</string>
+    <string name="action_delete">Supprimer</string>
+    <string name="action_edit">Modifier</string>
+    <string name="action_map">Ouvrir dans Google Maps</string>
+    <string name="action_validate">Valider</string>
+    <string name="current_position">Position actuelle</string>
+    <string name="description">Description</string>
+    <string name="empty_label">Veuillez saisir un label</string>
+    <string name="gps_disabled">Le GPS est désactivé</string>
+    <string name="label">Label</string>
+    <string name="update_location">Mettre à jour la position</string>
+    <string name="empty_point_of_interest">Aucun Point of Interest</string>
+    <string name="edit_poi">Modifier le PointOfInterest</string>
+    <string name="new_poi">Nouveau Point Of Interest</string>
+    <string name="share_sms">Partager par SMS</string>
+    <string name="location_not_ready">La localisation n\'est pas prête</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_map"
+        android:icon="@drawable/ic_map_24dp"
+        android:title="@string/action_map"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_share"
+        android:icon="@drawable/ic_textsms_24dp"
+        android:title="@string/share_sms"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_edit"
+        android:icon="@drawable/ic_create_24dp"
+        android:title="@string/action_edit"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_delete"
+        android:icon="@drawable/ic_delete_24dp"
+        android:title="@string/action_delete"
+        app:showAsAction="ifRoom"/>
+</menu>
